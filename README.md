@@ -1,4 +1,13 @@
-# Project1-Data-Driven-Prediction-with-Python-and-ML
+# Realistic Kraljic Dataset Project
+##   .Overview
 
-## Project Overview
-##### This project applies Machine Learning techniques to a realistic Kralijic dataset, which simulates supply chain data for applying the Kraljic Matrix framework. The goal is to classify items into four categories (e.g., Leverage, Strategic, Non-Critical, Bottleneck) amd evaluate the performance of the model .
+     The Realistic Kraljic Dataset is a synthetic dataset built to simulate real-world supply chain scenarios for analyzing and classifying items using the Kraljic Matrix Framework. The Kraljic Matrix helps           organizations categorize their purchased items based on supply risk and profit impact, leading to four main categories:
+
+  Non-Critical Items
+
+  Leverage Items
+
+  Bottleneck Items
+
+  Strategic Items
+  
